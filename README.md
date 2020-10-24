@@ -24,8 +24,6 @@
   NPM Twemojis Package
   <br>
   Node CLI
-  <br>
-  Facial recognition with Tensor Flow and ReactJS
  </ul>
 </details>
 <details>
