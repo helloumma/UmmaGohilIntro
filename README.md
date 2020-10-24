@@ -7,7 +7,7 @@
   <br>
  ReactJS
   <br>
- HTML/SCSS/CSS
+ HTML/CSS/SCSS
   <br>
  Java/Spring Boot
   <br>
@@ -28,7 +28,7 @@
 </details>
 <details>
   <summary>
-   <b>🌻 Tech I'm competent in</b>
+   <b>🌻 Tech I'm competent with</b>
   </summary>
  <ul>
   JavaScript
