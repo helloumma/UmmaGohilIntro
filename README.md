@@ -12,6 +12,8 @@
  Java/Spring Boot
   <br>
  Node.js
+ <br>
+ AWS
 </samp>
 <br><br>
 <details>
