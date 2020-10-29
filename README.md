@@ -81,3 +81,6 @@
   hello@umma.dev
 </ul>  
 </details>
+<samp>
+ My personal projects have no affiliation with my current employer.
+</samp>
