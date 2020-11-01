@@ -21,7 +21,7 @@
    <b>👩‍💼 Projects I'm currently working on</b>
   </summary>
  <ul>
-  NPM Tweakemoji-icons package
+  NPM tweakemoji-icons package
   <br>
   Node.js CLI
  </ul>
