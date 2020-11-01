@@ -23,7 +23,7 @@
  <ul>
   NPM Tweakemoji-icons Package
   <br>
-  Node CLI
+  Node.js CLI
  </ul>
 </details>
 <details>
