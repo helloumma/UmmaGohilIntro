@@ -73,14 +73,3 @@
  </ul>
  </details>
 </details>
-<details>
-  <summary>
-   <b>☕️ Get in touch</b>
-  </summary>
- <ul>
-  hello@umma.dev
-</ul>  
-</details>
-<samp>
- My personal projects have no affiliation with my current employer.
-</samp>
