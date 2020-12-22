@@ -1,5 +1,5 @@
 <samp>
- Predominantly a front-end Software Engineer, with some back-end exposure. 
+ Front-end Software Engineer with some back-end exposure. 
  <br><br>
  <b>Current tech stack I work with</b>
  <br/>
