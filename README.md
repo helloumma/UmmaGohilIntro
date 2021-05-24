@@ -1,11 +1,11 @@
 <samp>
  Front-end Software Engineer with some back-end exposure. 
  <br><br>
- <b>Current tech stack I work with</b>
+ <b>Tech stack I've previously work with</b>
  <br/>
  JavaScript
   <br>
- ReactJS
+ React/Redux
   <br>
  HTML/CSS/SCSS
   <br>
@@ -22,8 +22,6 @@
   </summary>
  <ul>
   NPM tweakemoji-icons package
-  <br>
-  Node.js CLI
  </ul>
 </details>
 <details>
@@ -32,6 +30,8 @@
   </summary>
  <ul>
   JavaScript
+  <br>
+  TypeScript
   <br>
   ReactJS/Redux
   <br>
@@ -46,18 +46,10 @@
   </summary>
  <details>
    <summary>
-    Professionally 
-   </summary>
-   <ul>
-  Spring Boot/Java
-</ul> 
- </details>
- <details>
-   <summary>
-    Personally
+    Work
    </summary>
   <ul>
-  AWS 
+  AWS (Cloud Practioner) 
   <br>
   Data Science/Kaggle/PyTorch etc. 
   <br> 
