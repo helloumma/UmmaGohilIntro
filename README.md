@@ -46,10 +46,6 @@
   <summary>
    <b>📓 Currently learning/interested in</b>
   </summary>
- <details>
-   <summary>
-    Work
-   </summary>
   <ul>
   AWS (Cloud Practioner) 
   <br>
@@ -57,7 +53,6 @@
   <br> 
   Webpack/CLIs/NPM packages
 </ul> 
- </details>
  <details>
   <summary>
    Misc.
