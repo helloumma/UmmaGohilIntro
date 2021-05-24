@@ -20,7 +20,7 @@
 <br><br>
 <details>
   <summary>
-   <b>👩‍💼 Projects I'm currently working on</b>
+   <b>👩‍💼 Currently Working On</b>
   </summary>
  <ul>
   NPM tweakemoji-icons package
@@ -28,7 +28,7 @@
 </details>
 <details>
   <summary>
-   <b>🌻 Tech I'm competent with</b>
+   <b>🌻 Competent with</b>
   </summary>
  <ul>
   JavaScript
@@ -44,7 +44,7 @@
 </details>
 <details>
   <summary>
-   <b>📓 Tech I'm currently learning/interested in</b>
+   <b>📓 Currently learning/interested in</b>
   </summary>
  <details>
    <summary>
