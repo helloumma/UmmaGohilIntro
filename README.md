@@ -1,7 +1,7 @@
 <samp>
  Front-end Software Engineer with some back-end exposure. 
  <br><br>
- <b>Tech stack I've previously work with</b>
+ <b>Tech stack I've previously worked with</b>
  <br/>
  JavaScript
   <br>
